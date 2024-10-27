@@ -1,6 +1,7 @@
 .cache
 .coverage
 .mypy_cache/
+.ruff_cache/
 __pycache__/
 uvicorn.egg-info/
 venv/
